@@ -55,7 +55,7 @@ var editable = false;
  */
 var paper = {
     html: 'Literature collection visualisation <b><a href="https://rahulpillai22.github.io/SurVis-LiteratureVisualization/src/index.html" target="_blank">SurVis</a></b>',
-    id: 'Beck2016Visual'
+    id: 'YANG2020295'
 };
 
 /**
