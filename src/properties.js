@@ -54,8 +54,8 @@ var editable = false;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'Literature collection visualisation <b><a href="http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/eurovis14-star.pdf" target="_blank">SurVis</a></b>',
-    id: 'Beck2016Visual'
+    html: 'Literature collection visualisation <b><a href="https://rahulpillai22.github.io/SurVis-LiteratureVisualization/src/index.html" target="_blank">SurVis</a></b>',
+    id: 'YANG2020295'
 };
 
 /**
